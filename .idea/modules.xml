@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/jmloauth.iml" filepath="$PROJECT_DIR$/jmloauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2.iml" filepath="$PROJECT_DIR$/oauth2.iml" />
     </modules>
   </component>
 </project>
