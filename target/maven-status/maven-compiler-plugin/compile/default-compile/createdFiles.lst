@@ -1,0 +1,17 @@
+org/magnum/mobilecloud/video/Application.class
+org/magnum/mobilecloud/video/auth/OAuth2SecurityConfiguration$ResourceServer.class
+org/magnum/mobilecloud/video/client/SecuredRestBuilder$OAuthHandler.class
+org/magnum/mobilecloud/video/auth/OAuth2SecurityConfiguration$OAuth2Config.class
+org/magnum/mobilecloud/video/client/VideoSvcApi.class
+org/magnum/mobilecloud/video/auth/OAuth2SecurityConfiguration.class
+org/magnum/mobilecloud/video/json/ResourcesMapper.class
+org/magnum/mobilecloud/video/auth/OAuth2SecurityConfiguration$1.class
+org/magnum/mobilecloud/video/auth/User.class
+org/magnum/mobilecloud/video/repository/ProductApiService.class
+org/magnum/mobilecloud/video/client/SecuredRestException.class
+org/magnum/mobilecloud/video/client/SecuredRestBuilder.class
+org/magnum/mobilecloud/video/auth/OAuth2SecurityConfiguration$1$1.class
+org/magnum/mobilecloud/video/repository/Video.class
+org/magnum/mobilecloud/video/json/ResourcesMapper$1.class
+org/magnum/mobilecloud/video/auth/OAuth2SecurityConfiguration$WebSecurityConfiguration.class
+org/magnum/mobilecloud/video/repository/VideoRepository.class
